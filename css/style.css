@@ -23,7 +23,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #0a98c0;
+  color: #808080;
   outline: none;
   text-decoration: none;
 }
@@ -247,7 +247,7 @@ h6 {
 
 #intro .intro-info .btn-get-started:hover,
 #intro .intro-info .btn-services:hover {
-  background: #0a98c0;
+  background: #808080;
 }
 
 /*--------------------------------------------------------------
@@ -323,7 +323,7 @@ h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #065e77;
+  color: #808080;
 }
 
 .main-nav .drop-down ul a:hover,
@@ -391,7 +391,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active > a,
 .mobile-nav li:hover > a {
-  color: #8dc2fa;
+  color: #808080;
   text-decoration: none;
 }
 
@@ -864,7 +864,7 @@ h6 {
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover,
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover {
-  background: #42c3e8;
+  background: #808080;
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover i,
@@ -1156,7 +1156,7 @@ h6 {
 }
 
 #pricing .card .btn:hover {
-  background: #0a98c0;
+  background: #808080;
 }
 
 /* Frequently Asked Questions Section
@@ -1265,7 +1265,7 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #0a98c0;
+  background: #808080;
   color: #fff;
 }
 
@@ -1335,7 +1335,7 @@ h6 {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #0a98c0;
+  background: #808080;
 }
 
 #footer .footer-top .form .form-group {
@@ -1419,7 +1419,7 @@ h6 {
 }
 
 #footer .footer-top .form button[type="submit"]:hover {
-  background: #0a98c0;
+  background: #808080;
   cursor: pointer;
 }
 
@@ -1442,7 +1442,7 @@ h6 {
 }
 
 #footer .credits a:hover {
-  color: #0a98c0;
+  color: #808080;
 }
 
 /*--------------------------------------------------------------
